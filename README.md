@@ -1,10 +1,10 @@
-#Behavioral Cloning Project
+# Behavioral Cloning Project
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Note: I have included a copy of this README and associated files that I created on my GitHub page.  [*Dannys_Project*](https://github.com/dannybynum/DWB-T1-P4)
 
-##Background / Reference
+## Background / Reference
 ---
 The overall goal of this project is for students to create and train a neural network to predict a steering wheel angle for a given input image.  The images are gathered with a driving simulator with manual steering & throttle control and then the output of the trained neural network is tested on the same simulator (placed into Autonomous mode).  The Udacity team has provided some cool tools to help with this process. Here is a short desription of the tools that were provided as a part of the project (See the assoicated github page for more details - [*LINK*](https://github.com/udacity/CarND-Behavioral-Cloning-P3)):
 
@@ -36,7 +36,7 @@ _No tire may leave the drivable portion of the track surface. The car may not po
 
 
 
-##Model/Architecture Strategy and Documentation (7 steps to success!)
+## Model/Architecture Strategy and Documentation (7 steps to success!)
 ---
 
 The course material walked through several examples and even some code and discussed it line-by-line which was very cool to have as a starting place.  There were still quite a few decisions to make and here is the process that I followed in order to end up with a working model for this project.
@@ -183,7 +183,7 @@ The training performance achieved with this last model (Version 7) and assoicate
 
 
 
-##Training Strategy
+## Training Strategy
 
 The build up of the training data is shown in the table below:
 
