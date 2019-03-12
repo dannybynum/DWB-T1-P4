@@ -31,8 +31,8 @@ _No tire may leave the drivable portion of the track surface. The car may not po
 [//]: # (Image References)
 
 [image1]: ./report_images/Training_Loss_V7.PNG "Training Results for Version 7"
-[image2]: ./report_images/IMG_0480.JPG "Bridge Recovery Training Image"
-[image3]: ./report_images/IMG_0481.JPG "Tight Turn Recovery Training Image"
+[image2]: ./report_images/IMG_0480.PNG "Bridge Recovery Training Image"
+[image3]: ./report_images/IMG_0481.PNG "Tight Turn Recovery Training Image"
 
 
 
